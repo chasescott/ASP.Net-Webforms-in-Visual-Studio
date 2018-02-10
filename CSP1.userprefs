@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F6673834-1F13-4E2C-993B-2C3061403763}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="js/jquery.js">
+    <Files>
+      <File FileName="obj/Release/Package/PackageTmp/capitalssqlserver.aspx" Line="3" Column="91" />
+      <File FileName="capitalssqlserver.aspx.cs" Line="1" Column="1" />
+      <File FileName="capitalssqlserver.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="capitalssqlserver.aspx" Line="9" Column="95" />
+      <File FileName="Account/Register.aspx.cs" Line="28" Column="95" />
+      <File FileName="obj/Release/TransformWebConfig/transformed/Web.config" Line="13" Column="16" />
+      <File FileName="obj/Release/Package/PackageTmp/Web.config" Line="13" Column="16" />
+      <File FileName="obj/Release/TransformWebConfig/original/Web.config" Line="14" Column="16" />
+      <File FileName="Properties/Settings.settings" Line="1" Column="1" />
+      <File FileName="Properties/Settings.Designer.cs" Line="1" Column="1" />
+      <File FileName="js/jquery.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSP1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
